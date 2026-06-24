@@ -44,7 +44,7 @@ while True:   # loop will run until the user types 'exit'
     # Farewell
     "bye": "Goodbye!",
     "see you": "See you later!",
-    "take care": "Take care!",
+    "take care": "Take caree!",
     "goodbye": "Bye! Have a nice day.",
     
     
